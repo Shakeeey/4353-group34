@@ -1,5 +1,5 @@
 {
-    "name": "group15app",
+    "name": "group34app",
     "version": "1.0.0",
     "private": true,
     "scripts": {
@@ -10,7 +10,7 @@
     "dependencies": {
         "axios": "^0.21.1",
         "formik": "^2.2.6",
-        "next": "latest",
+        "next": "^14.2.12",
         "react": "latest",
         "react-dom": "latest",
         "react-multi-date-picker": "^4.5.2",
