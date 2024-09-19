@@ -6,27 +6,27 @@
   }
   
   .table th, .table td {
-    border: 1px solid #ddd;
+    border: 1px solid #090909;
     padding: 8px;
   }
   
   .table th {
-    background-color: #f2f2f2;
-    text-align: left;
+    background-color: #eb1212;
+    text-align: center;
   }
   
   .table tr:nth-child(even) {
-    background-color: #f9f9f9;
+    background-color: #e30a0a;
   }
   
   .table tr:hover {
-    background-color: #ddd;
+    background-color: #5e0909;
   }
   
   .table th {
     padding-top: 12px;
     padding-bottom: 12px;
-    background-color: #4CAF50;
+    background-color: #af4c90;
     color: white;
   }
   

@@ -17,22 +17,22 @@
     display: flex;
     justify-content: flex-end;
     padding: 10px 20px;
-    background-color: #fff; /* Ensure background color to cover content behind */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow for better visibility */
+    background-color: #ffffff; /* Ensure background color to cover content behind */
+    box-shadow: 0 2px 4px rgba(3, 40, 250, 0.1); /* Add shadow for better visibility */
     z-index: 1000; /* Ensure nav is above other content */
     box-sizing: border-box; /* Ensure padding doesn't affect the width */
   }
   
   .nav a {
     margin-left: 20px;
-    color: #0070f3;
+    color: #f300a6;
     text-decoration: none;
     font-size: 16px;
-    font-weight: bold;
+    font-weight: normal;
   }
   
   .nav a:hover {
-    color: #005bb5;
+    color: #ec10aa;
   }
   
   .content {
