@@ -289,7 +289,7 @@ const UserProfileForm = () => {
 
 const ProfilePage = () => {
   return (
-    <div>
+    <div className="container">
       <h1>User Profile</h1>
       <UserProfileForm />
     </div>
